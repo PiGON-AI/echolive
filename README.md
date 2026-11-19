@@ -12,8 +12,6 @@ editors**, encrypted, and never through our servers. EchoLive is part of the
 (Milo's memory), **EchoAvatar** (Milo himself) and **EchoVoice** (his voice).
 **Free, no account, no telemetry.**
 
-<!-- Hero screenshot: added in the screenshots step. -->
-
 ## Why EchoLive
 
 - **The meeting is a tab.** Start one, send the invite, and talk while your
@@ -84,7 +82,6 @@ editors**, encrypted, and never through our servers. EchoLive is part of the
 - **Effects.** Backgrounds (Xie, Wispie, Under the sea, Arcade, Cockpit) and
   blur; the season's sprites floating around you; hand signs that send a
   thumbs up or raise your hand. All of it runs on your machine.
-  <!-- Filters and Appearance: Myriam's call before ship (ship them, or hide them until Christmas). -->
 - **Voice costumes.** Speak as a Witch, a Pumpkin or a Ghost, a Pilgrim, a
   Harvest Pumpkin or a Turkey, or a Robot. The other person sees your
   costume's badge.
